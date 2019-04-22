@@ -9,3 +9,6 @@ A simple maze based on the Canyons of Mars challenge.  Buttons move left/down/up
 
 ## SoundBadge
 Two modes to make spacy sound effects with a hacked analog synth kit.  Mode 1 displays a running graph of light sensor readings on the badge screen, which could be useful for some other purposes.
+
+## POVBadge
+For displaying messages via persistence of vision.  Swing the badge through the air and press one of the buttons for messages.  Would look pretty neat on a bike wheel (the only hard part is pressing the button every revolution)
